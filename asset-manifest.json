@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Batsman-Leg-Off-Detection-GUI/static/css/main.523785ab.css",
+    "main.js": "/Batsman-Leg-Off-Detection-GUI/static/js/main.50b6b0a3.js",
+    "static/js/787.c2baf49b.chunk.js": "/Batsman-Leg-Off-Detection-GUI/static/js/787.c2baf49b.chunk.js",
+    "static/media/73_78_Trim.mp4": "/Batsman-Leg-Off-Detection-GUI/static/media/73_78_Trim.02e1ce8a62c9d761f217.mp4",
+    "static/media/337_343_Trim.mp4": "/Batsman-Leg-Off-Detection-GUI/static/media/337_343_Trim.d623c6b8597577d2ef54.mp4",
+    "static/media/53_59_Trim.mp4": "/Batsman-Leg-Off-Detection-GUI/static/media/53_59_Trim.d51b08b55e0b3d20a361.mp4",
+    "static/media/249_252_Trim.mp4": "/Batsman-Leg-Off-Detection-GUI/static/media/249_252_Trim.b50a293254c6cdea3fdb.mp4",
+    "index.html": "/Batsman-Leg-Off-Detection-GUI/index.html",
+    "main.523785ab.css.map": "/Batsman-Leg-Off-Detection-GUI/static/css/main.523785ab.css.map",
+    "main.50b6b0a3.js.map": "/Batsman-Leg-Off-Detection-GUI/static/js/main.50b6b0a3.js.map",
+    "787.c2baf49b.chunk.js.map": "/Batsman-Leg-Off-Detection-GUI/static/js/787.c2baf49b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.523785ab.css",
+    "static/js/main.50b6b0a3.js"
+  ]
+}
